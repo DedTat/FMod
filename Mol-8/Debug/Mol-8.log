@@ -1,0 +1,4 @@
+﻿  Mol-8.cpp
+f:\политех\архитектура эвм\окончательный вариант\fmod\mol-8\mol-8.cpp(49): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Mol-8.vcxproj -> F:\Политех\Архитектура ЭВМ\Окончательный вариант\FMod\Debug\Mol-8.exe
